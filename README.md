@@ -2,10 +2,8 @@
 # 📈🧪 Data Analytics Program 🧠📊 : Story of *Asogwa, Ikechukwu Christian*
 
 
-**Instruction**: Fork the repo, name it `DAP-Trainee-Story_<your-username>`, fill and embellish this Readme file. *Remove this instruction when you are done.*
-
 ## Let me introduce Myself
-`Please provide a brief professional history before embarking on your data analytics journey (3 - 4 lines)`
+`I am an IT infrastructural Specialist, my quest for new skills and to brase with the revolution the Tech world made me to start this programme with Azubi Afric.`
 
 ## How would I describe my experience in the data analytics program ? 
 `My experience has no boundary, Azubi opened my eyes to the world of Data Analytics as well as Machine learning and was able to learn alot within the period of the training`
@@ -31,9 +29,9 @@
 <tbody>
 <tr>
 <td>#</td>
-<td>D</td>
-<td>Description</td>
-<td>Additional</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
