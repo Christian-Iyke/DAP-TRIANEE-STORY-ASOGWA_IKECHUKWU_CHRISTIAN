@@ -1,6 +1,6 @@
 # DAP-Trainee-Story
 # 📈🧪 Data Analytics Program 🧠📊 : Story of *Asogwa, Ikechukwu Christian*
-Here is the place to tell the story of your experience of the Data Analytics Program.
+
 
 **Instruction**: Fork the repo, name it `DAP-Trainee-Story_<your-username>`, fill and embellish this Readme file. *Remove this instruction when you are done.*
 
@@ -8,13 +8,13 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 `Please provide a brief professional history before embarking on your data analytics journey (3 - 4 lines)`
 
 ## How would I describe my experience in the data analytics program ? 
-`My experience has no boundary, Azubi opened my eyes to the Tech world and was able to learn alot within the period of the training`
+`My experience has no boundary, Azubi opened my eyes to the world of Data Analytics as well as Machine learning and was able to learn alot within the period of the training`
 
 ## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics ? 
-`It was awesome indeed, it gave me the opportunity to handle real projects`
+`It was awesome indeed, it gave me the opportunity to handle real world projects`
 
 ## What enticed me to join the Data Analytics Program?
-`The quest to learn new skill so as i can increase my earnings and better my family`
+`The quest to learn new skill so as to increase my earnings and better my family`
 
 ## What would I say my progress in tech has been since joining the program ? 
 `It has been great`
